@@ -66,4 +66,4 @@ Congratulations! You have setup Spring Tool Suite, imported the Consuming Rest g
 
 * http://knos.top/guides/gs/intellij-idea/[使用 IntelliJ IDEA运行入门指南]
 
-include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/footer.adoc[]
+include::https://raw.githubusercontent.com/webGoBetter/getting-started-macros/master/footer.adoc[]
