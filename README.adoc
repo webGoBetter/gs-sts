@@ -42,23 +42,23 @@ NOTE: 当提供即时搜索结果时是支持通配符，该标准适用于标�
 
 你可以选择 {gs-maven}[Maven] 或 {gs-gradle}[Gradle] 作为构建系统使用。
 
-You can also decide whether to grab the **initial** code set, **complete** code set, or both. For most projects, the **initial** code set is an empty project, making it possible for you to copy-and-paste your way through a guide. The **complete** code set is all the code from the guide already entered. If you grab both, you can compare your work against the guide's and see the differences.
+您还可以决定是否使用 **initial** 代码集、 **complete** 代码集，或者两者都使用。对于大多数项目， **initial** 代码集是一个空项目，可以让你用来根据指南复制和粘贴。 **complete** 的代码集是指南中已经输入的所有代码。如果你使用两者，你可以比较你的工作与指南的差异。
 
-Finally, you can have STS open a browser tab to the guide on the website. This will let you work through a guide without having to leave STS.
+最后，您可以在STS上打开一个浏览器选项卡访问在网站上的指南。这可以让你完成指南而不必离开STS。
 
-For the purpose of this guide, enter **rest** into the instant search box. Then pick {gs-consuming-rest}[Consuming Rest]. Pick **Maven** for building, and **initial** and **complete** code sets. Also opt to open the web page as shown below:
+为完成本指南的目的，在即时搜索框中输入 **rest** 。然后选择 {gs-consuming-rest}[Consuming Rest] 。选择 **Maven** 作为构建系统、 **initial** 和 **complete** 代码集。也可以选择打开网页，如下所示：
 
 image::images/3_wizard.png[Pick a guide]
 
-STS will create two new projects in your workspace, import the {gs-consuming-rest}[Consuming Rest] code base (both initial and complete), and open a browser tab inside STS as shown below:
+STS将在您的工作区中创建两个新项目，导入 {gs-consuming-rest}[Consuming Rest] 代码（initial和complete），并在STS内打开一个浏览器选项卡，如下所示：
 
 image::images/4_after-import.png[View the code and the guide]
 
-From here, you can walk through the guide and navigate to the code files.
+从这里，您可以浏览指南并导航到代码文件。
 
 == 总结
 
-Congratulations! You have setup Spring Tool Suite, imported the Consuming Rest getting started guide, and opened a browser tab to walk through it.
+祝贺你!您已经安装了Spring工具套件，导入了消费REST入门指南，并打开了一个浏览器选项卡来浏览它。
 
 == 参考
 
